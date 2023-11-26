@@ -3,7 +3,7 @@ package src;
 import java.io.Serializable;
 import java.util.List;
 import java.util.Map;
-
+//comentario de prueba
 // Nueva clase Administrador
 class Administrador implements Serializable {
     private String nombre;
